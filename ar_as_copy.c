@@ -4,14 +4,13 @@ int main()
 {
     int i, n, t1 = 0, t2 = 1, nextTerm;
 
+
     printf("Fib Series: ");
 
-   /* for (i = 1; i <= n; ++i)
-    {
-       
-        nextTerm = t1 + t2;
-        t1 = t2;
-        t2 = nextTerm;
-    }*/
+   
+
+    printf("Fib2 Series: ");
+
+
     return 0;
 }

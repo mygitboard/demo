@@ -9,11 +9,6 @@ int main()
     printf("Fib Series: ");
 
    /* for (i = 1; i <= n; ++i)
-    {
-       
-        nextTerm = t1 + t2;
-        t1 = t2;
-        t2 = nextTerm;
     }*/
     return 0;
 }
