@@ -6,7 +6,12 @@ int main()
 
    
 
-    printf("Fib Series: ");
+    printf("Fibonacci Series: ");
+
+    printf("Fibonacci Series: ");
+
+    printf("Fibonacci Series: ");
+    printf("Fibonacci Series: ");
 
    /* for (i = 1; i <= n; ++i)
     {

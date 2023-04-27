@@ -5,8 +5,9 @@ int main()
     int i, n, t1 = 0, t2 = 1, nextTerm;
 
    
+    printf("ntg Series: ");
 
-    printf("Fib Series: ");
+    printf("Fibonacci Series: ");
 
    /* for (i = 1; i <= n; ++i)
     {
