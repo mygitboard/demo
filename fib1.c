@@ -3,16 +3,7 @@
 int main()
 {
     int i, n, t1 = 0, t2 = 1, nextTerm;
-
-   
-
-    printf("Fibonacci Series: ");
-
-    printf("Fibonacci Series: ");
-
-    printf("Fibonacci Series: ");
-    printf("Fibonacci Series: ");
-
+    printf("Fibonacci master: ");
    /* for (i = 1; i <= n; ++i)
     {
        
@@ -22,3 +13,4 @@ int main()
     }*/
     return 0;
 }
+
